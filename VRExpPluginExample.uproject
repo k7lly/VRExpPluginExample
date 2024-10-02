@@ -18,7 +18,7 @@
 				"Win64",
 				"Linux",
 				"Android",
-				"HoloLens"
+				"VisionOS"
 			]
 		},
 		{
@@ -28,7 +28,8 @@
 				"Win64",
 				"Linux",
 				"Android",
-				"HoloLens"
+				"Mac",
+				"IOS"
 			]
 		},
 		{
@@ -42,7 +43,8 @@
 				"Win64",
 				"Linux",
 				"Android",
-				"HoloLens"
+				"Mac",
+				"IOS"
 			]
 		},
 		{
@@ -61,7 +63,7 @@
 				"Win64",
 				"Linux",
 				"Android",
-				"HoloLens"
+				"VisionOS"
 			]
 		},
 		{
