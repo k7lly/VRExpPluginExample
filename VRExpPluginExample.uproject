@@ -82,6 +82,10 @@
 				"Linux",
 				"Android"
 			]
+		},
+		{
+			"Name": "GeometryScripting",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
